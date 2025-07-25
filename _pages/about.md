@@ -15,11 +15,13 @@ Visit my [OpenReview](https://openreview.net/profile?id=%7EXu_Cheng5) profile to
 
 🔬 Research Interest
 -----
-Currently, I'm working on Federated Learning(heterogeneity, robustness) and Large Language Models(Compression, PEFT). 
+Currently, I'm working on Federated Learning (heterogeneity, robustness) and Large Language Models (Compression, PEFT). 
 
 🔥 News
 -----
- 🗓️ **May 2025**: Check out my latest work [*TPP-SD: Accelerating Transformer Point Process Sampling with Speculative Decoding*](https://openreview.net/forum?id=C9653lXaFO&referrer=%5Bthe%20profile%20of%20Xu%20Cheng%5D(%2Fprofile%3Fid%3D~Xu_Cheng5)) !
+ 🗓️ **May 2025**: Check out my latest work [*Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning*](https://openreview.net/forum?id=C9653lXaFO&referrer=%5Bthe%20profile%20of%20Xu%20Cheng%5D(%2Fprofile%3Fid%3D~Xu_Cheng5)) !
+
+ 🗓️ **Jan 2025**: [*Policy-Driven Composite Approximation for LLM Compression*](https://openreview.net/forum?id=fD3lhW7YP7&referrer=%5Bthe%20profile%20of%20Xu%20Cheng%5D(%2Fprofile%3Fid%3D~Xu_Cheng5)) is now submitted to CVPR 2025 !
 
  🗓️ **Jan 2025**: [*RankAdaptor: Hierarchical Rank Allocation for Efficient Fine-Tuning Pruned LLMs via Performance Model*](https://arxiv.org/pdf/2406.15734) has been accepted by **NAACL 2025**!
 
